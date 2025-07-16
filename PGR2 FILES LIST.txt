@@ -1,0 +1,41 @@
+PGR2 FILES  
+
+1. MAGIC ERASER -- Remove unwanted objects from photos.    
+
+------------------------------------------------------------  
+
+2. IN PAINT (BIG-LAMA) -- Remove parts of a photo & replace them with any other object.    
+
+------------------------------------------------------------  
+
+3. OUTPAINT -- Extends an image beyond its original borders while maintaining style.    
+
+------------------------------------------------------------  
+
+4. STYLE TRANSFER -- Applies the artistic style of one image to the content of another using AI.    
+
+------------------------------------------------------------  
+
+5. COLORIZE (DDCOLOR) -- Colorize a black & white photo.    
+
+------------------------------------------------------------  
+
+6. IMG GENERATION (realvisxlV50_v50, juggernautXL_v8Rundiffusion) -- Text-to-image generation using AI.    
+
+------------------------------------------------------------  
+
+7. GFPGAN (IMAGE ENHANCER) -- Enhance images (mostly portraits & faces).    
+
+------------------------------------------------------------  
+
+8. BACKGROUND BLUR (REMBG) -- Blur the background.    
+
+------------------------------------------------------------  
+
+9. BACKGROUND REMOVAL (REMBG) -- Remove the background.    
+
+------------------------------------------------------------  
+
+10. IMG TO PENCIL SKETCH (OPENCV) -- Convert an image into a pencil sketch.  
+
+------------------------------------------------------------  

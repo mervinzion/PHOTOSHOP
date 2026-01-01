@@ -1,0 +1,107 @@
+/* test-styles.css - Isolated styles for panel testing */
+
+/* Base styles */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  /* Test variations of panel rendering */
+  .panel-crisp {
+    /* Pixel-crisp rendering */
+    transform: none !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .panel-hardware-accelerated {
+    /* Hardware acceleration */
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    will-change: transform;
+  }
+  
+  .panel-blurry {
+    /* Intentionally create blurry text for comparison */
+    filter: blur(0.2px);
+    transform: scale(1.001);
+  }
+  
+  /* Panel themes for testing */
+  .panel-theme-1 {
+    /* High contrast theme */
+    background-color: white;
+    color: #000;
+    border: 1px solid #ddd;
+  }
+  
+  .panel-theme-2 {
+    /* Softer theme */
+    background-color: #f8f9fa;
+    color: #343a40;
+    border: 1px solid #e9ecef;
+  }
+  
+  /* Debug grid for pixel precision */
+  .debug-grid {
+    position: relative;
+  }
+  
+  .debug-grid::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+      linear-gradient(to right, rgba(0,0,0,0.1) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(0,0,0,0.1) 1px, transparent 1px);
+    background-size: 10px 10px;
+    pointer-events: none;
+    z-index: 9999;
+  }
+  
+  /* Test rendering with different transform origins */
+  .transform-center {
+    transform-origin: center;
+  }
+  
+  .transform-top-left {
+    transform-origin: top left;
+  }
+  
+  /* Test with different font rendering options */
+  .text-crisp {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  
+  .text-subpixel {
+    -webkit-font-smoothing: subpixel-antialiased;
+    -moz-osx-font-smoothing: auto;
+    text-rendering: optimizeLegibility;
+  }
+  
+  .text-unsmoothed {
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: unset;
+    text-rendering: auto;
+  }
+  
+  /* Ensure integer positioning */
+  .integer-position {
+    top: 0;
+    left: 0;
+    transform: translate(calc(1px * round(var(--x) / 1px)), calc(1px * round(var(--y) / 1px)));
+  }
+  
+  /* Debugging borders */
+  .debug-outline-1 {
+    outline: 2px solid rgba(255, 0, 0, 0.5);
+  }
+  
+  .debug-outline-2 {
+    outline: 2px solid rgba(0, 0, 255, 0.5);
+  }

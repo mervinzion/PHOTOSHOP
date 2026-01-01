@@ -1,0 +1,9 @@
+hey i have a working web based project ( frontend - react , backend - fast api (py) ) . it's a set of tools that are related to the image editing . 
+
+1. magic eraser - remove unwanted objects with the help of big-lama model 
+2.face restoration - a app which uses GFPGANv1.4.pth & realesr-general-x4v3.pth
+3.black & white to color photo - uses  a model from ddcolor github 
+4.in-painting - uses sam for mask generation & { Deliberate_v2-inpainting , Realistic_Vision_V5.1-inpainting , juggernautXL_v8Rundiffusion } for in-painting 
+5.out-paint - juggernautXL_v8Rundiffusion 
+6.background blur - open cv 
+7. background remover with generative fill - uses open cv for removing background Deliberate_v2-inpainting , Realistic_Vision_V5.1-inpainting for generative fill 

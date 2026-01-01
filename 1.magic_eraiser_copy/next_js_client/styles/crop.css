@@ -1,0 +1,124 @@
+/* Custom CSS for Microsoft Photos Crop Page */
+
+/* Override ReactCrop base styles */
+.ReactCrop {
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+    cursor: crosshair;
+  }
+  
+  .ReactCrop__crop-selection {
+    border: 1px solid white !important;
+    border-image: initial !important;
+    color: white !important;
+    box-shadow: 0 0 0 9999em rgba(0, 0, 0, 0.6) !important;
+  }
+  
+  .ReactCrop__rule-of-thirds-vt::before,
+  .ReactCrop__rule-of-thirds-vt::after,
+  .ReactCrop__rule-of-thirds-hz::before,
+  .ReactCrop__rule-of-thirds-hz::after {
+    background-color: rgba(255, 255, 255, 0.5) !important;
+  }
+  
+  .ReactCrop__drag-handle {
+    width: 9px !important;
+    height: 9px !important;
+    background-color: white !important;
+    border: 1px solid rgba(0, 0, 0, 0.5) !important;
+  }
+  
+  .ReactCrop__drag-handle::after {
+    background-color: transparent !important;
+  }
+  
+  .ReactCrop__drag-bar {
+    background-color: transparent !important;
+  }
+  
+  /* Fix MSFT Photo crop selection appearance */
+  .ReactCrop__drag-handle.ord-nw {
+    top: -5px !important;
+    left: -5px !important;
+  }
+  
+  .ReactCrop__drag-handle.ord-ne {
+    top: -5px !important;
+    right: -5px !important;
+  }
+  
+  .ReactCrop__drag-handle.ord-sw {
+    bottom: -5px !important;
+    left: -5px !important;
+  }
+  
+  .ReactCrop__drag-handle.ord-se {
+    bottom: -5px !important;
+    right: -5px !important;
+  }
+  
+  /* When image is being manipulated */
+  .ReactCrop__drag-handle:hover {
+    background-color: white !important;
+  }
+  
+  /* Button styles to match Microsoft Photos */
+  .save-options-btn {
+    background-color: #f4584e;
+    transition: background-color 0.2s;
+  }
+  
+  .save-options-btn:hover {
+    background-color: #f56b61;
+  }
+  
+  .crop-page-container {
+    background-color: #0d1117; /* Microsoft Photos dark background */
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    color: white;
+  }
+  
+  .aspect-toolbar {
+    background-color: #111827;
+    height: 4rem;
+    border-top: 1px solid #374151;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .aspect-button {
+    min-width: 3.5rem;
+    height: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    margin: 0 0.25rem;
+    transition: background-color 0.2s;
+  }
+  
+  .aspect-button.selected {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .aspect-button:hover:not(.selected) {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  .crop-dimensions-display {
+    position: absolute;
+    bottom: 0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+  }

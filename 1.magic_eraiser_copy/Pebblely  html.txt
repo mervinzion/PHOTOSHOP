@@ -1,0 +1,1496 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Pebblely AI Product Photography | Create beautiful product photos in seconds with AI</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="canonical" href="https://pebblely.com">
+        <meta content="https://pebblely.com" property="og:url">
+        <meta name="facebook-domain-verification" content="3ca51s1axfu9ta1dhmrwuhxq47djgy">
+        <meta name="p:domain_verify" content="ba346c581d45b25ff14eea80f559c414">
+        <meta name="description" content="Boring product photos? Pebblely helps you create beautiful photos in seconds with AI">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Pebblely AI Product Photography | Create beautiful product photos in seconds">
+        <meta name="twitter:description" content="Boring product photos? Pebblely helps you create beautiful photos in seconds with AI">
+        <meta name="twitter:image" content="https://pebblely.com/pebblely-card.jpg">
+        <meta content="Pebblely AI Product Photography | Create beautiful product photos in seconds" property="og:title">
+        <meta content="Boring product photos? Pebblely helps you create beautiful photos in seconds with AI" property="og:description">
+        <meta content="https://pebblely.com/pebblely-card.jpg" property="og:image">
+        <meta content="website" property="og:type">
+        <link rel="alternate" hreflang="en" href="https://pebblely.com">
+        <link rel="alternate" hreflang="zh" href="https://pebblely.com/zh/">
+        <link rel="alternate" hreflang="pt-BR" href="https://pebblely.com/br/">
+        <link rel="alternate" hreflang="es" href="https://pebblely.com/es/">
+        <link rel="alternate" hreflang="id" href="https://pebblely.com/id/">
+        <link rel="alternate" hreflang="x-default" href="https://pebblely.com">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/entry.9e8b7542.js">
+        <link rel="preload" as="style" href="/_nuxt/entry.48762039.css">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/_commonjsHelpers.f1ab313c.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/index.968ed430.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonNav.vue.bc401508.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/pebblely-logo.2e6d2c23.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/Bars3Icon.1e04e54f.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/XMarkIcon.8be7f491.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/popover.f5d982bb.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/portal.95e8c30e.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/keyboard.cfbfd707.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/use-resolve-button-type.06443684.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/LangHeaderIndex.69624542.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/_plugin-vue_export-helper.c27b6911.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeHero.4b8d9535.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonLogos.vue.3d97d078.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/eleman-beauty.1b3af2ce.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeRemoveBackground.3e82df2e.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeGenerateImages.vue.32ee194e.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/Demo.vue.24f196d5.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/fabric.b592d687.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeAdvanced.098f5f3e.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeResize.vue.7b5c73e3.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeEdit.08a69959.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeBulkGenerate.2ae15e89.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeTemplates.3098c5a2.js">
+        <link rel="preload" as="style" href="/_nuxt/HomeTemplates.cd94bce5.css">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GalleryItem.vue.d4c2cc93.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GalleryModalImage.vue.df6b7c74.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GalleryModalBase.vue.b88e9300.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/dialog.31620299.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/utils.b834feca.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeTestimonials.vue.e5845922.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/sebastian.9c502a8d.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/christian.29604e7c.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonCTA.55037e74.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonFooter.vue.87132eab.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/LangMenu.vue.79a5360d.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/lang.49fc6ce0.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GlobeAsiaAustraliaIcon.9017432b.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/ChevronDownIcon.06777880.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonNav.56b8d0c7.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonLogos.330d4a72.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeGenerateImages.1f4533a0.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/Demo.4f91e06a.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeResize.a527f844.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GalleryItem.0374d4a7.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GalleryModalImage.74fb13db.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/GalleryModalBase.2f108eb9.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/HomeTestimonials.179216d2.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/CommonFooter.f561f543.js">
+        <link rel="modulepreload" as="script" crossorigin href="/_nuxt/LangMenu.899a96d8.js">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/ai-generate.59107bb5.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/ai-warp.4bdb2097.jpg">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentNavigation.82dd2589.js">
+        <link rel="prefetch" as="style" href="/_nuxt/ContentNavigation.e338e3c2.css">
+        <link rel="prefetch" as="style" href="/_nuxt/ProseCode.18dc813d.css">
+        <link rel="prefetch" as="style" href="/_nuxt/CategoriesShowcase.c2dd11c0.css">
+        <link rel="prefetch" as="style" href="/_nuxt/GalleryFiltersMobile.5ba22e1e.css">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentQuery.d6a69ed5.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/query.51f2bec5.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/cookie.e1a63e27.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/query.c3f7607a.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/utils.0be9bda6.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentRenderer.b39cd137.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentRendererMarkdown.463517d6.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/index.a6ef77ff.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentDoc.ad2fce4d.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentList.b6caa0e6.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/ContentSlot.47ae7d2c.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/DocumentDrivenEmpty.b705dc4b.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/DocumentDrivenNotFound.3a2ab4cb.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/Markdown.535f4b24.js">
+        <link rel="prefetch" as="script" crossorigin href="/_nuxt/error-component.9c68f78e.js">
+        <link rel="prefetch" as="style" href="/_nuxt/error-component.cb0cecc9.css">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/hero-examples.89abadb3.jpg">
+        <link rel="prefetch" as="image" type="image/png" href="/_nuxt/the-shoeco.035bbea8.png">
+        <link rel="prefetch" as="image" type="image/png" href="/_nuxt/eva-candles.563b0c5c.png">
+        <link rel="prefetch" as="image" type="image/png" href="/_nuxt/homes-of-rajasthan.bb31e00c.png">
+        <link rel="prefetch" as="image" type="image/png" href="/_nuxt/enzo-chehab.6f0a9241.png">
+        <link rel="prefetch" as="image" type="image/png" href="/_nuxt/eleman-beauty.6c6989e5.png">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/background-removal-examples.c69f854c.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/settings-mobile.429b63f1.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/settings.cffa8080.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/multiple-product-examples-mobile.5c798ec3.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/multiple-product-examples.ba6ffdb3.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/reference-image-example.fb828b5d.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/brand-color-example.9c1c30bd.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/resize-examples.46ef5966.jpg">
+        <link rel="prefetch" as="video" href="/_nuxt/remove-object.1f801d9a.mp4">
+        <link rel="prefetch" as="video" href="/_nuxt/move-product.434711aa.mp4">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/reuse-background-examples-mobile.cb97f240.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/reuse-background-examples.d32a6faf.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/add-logo-examples.6617670e.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/bulk-generate-examples.86f38fb7.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/roberta.7ed852d4.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/melissa.4fa04242.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/tony.c693addc.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/sebastian.679b80b0.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/sushank.4f0a9e34.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/robert.45f72b24.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/athirah.539a095d.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/ewa.e7ef0db4.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/sebastian-yoon.fcc0814f.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/duc-anh.0b223b4e.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/adnan.c42b1435.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/avish.3a7cfa6a.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/bernfried.c6a057c8.jpg">
+        <link rel="prefetch" as="image" type="image/jpeg" href="/_nuxt/christian.3197268e.jpg">
+        <link rel="stylesheet" href="/_nuxt/entry.48762039.css">
+        <link rel="stylesheet" href="/_nuxt/HomeTemplates.cd94bce5.css">
+        <style>
+            html {
+                scroll-behavior: smooth
+            }
+        </style>
+    </head>
+    <body>
+        <div id="__nuxt">
+            <div>
+                <!--[-->
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+                <!--]-->
+                <!--[-->
+                <div>
+                    <!--[-->
+                    <!--[-->
+                    <div class="relative bg-white z-50" data-headlessui-state>
+                        <div class="w-full bg-white/90 backdrop-blur mx-auto z-30 fixed top-0 left-0 right-0">
+                            <div class="flex justify-between items-center gap-8 py-4 px-4 md:px-8 lg:px-16 2xl:container 2xl:px-24">
+                                <div class="flex lg:w-48">
+                                    <a href="/" class="flex items-center gap-2">
+                                        <img class="h-10 w-auto sm:h-10" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVnSURBVHgB7d2BcaM4FAbg/66B2w6sDi4dWB3sdWA6yF4FuIPkKnA62BLYrSBJBZAKLldBjjcyY8bjjZ5ACAH/N/PGOwkbA+9JIBkwQERERERERERERERERERERERERERERERERETL8xvI50sbpo27NnY3fv/WRtPGexsvWBgWwG22ja9t/AWX/BBSBE0bP9p4Pb/SQtg2qjY+Isa/bZzgiokyZRA/8beihisGA8qGtExppR+Jg4WQgSPSJ56FkIkj5k9+/zzhCErmiHyS348a7A0mVyDP5Pd7g29IZGvzAHLC9x3hukme5hwdcw6ZLLpDXI9t/A2KRhIUerZftbGHS7D2PWQC6QTXnY/tDZ7BQ0IUQ5JfYjwpnrHFIP/XgAYbMs4/IC4Dd+4xtBBYBAPJyVTozo6d/GslWASTMxg2tVsiDTNw/VgEHnKydsSwqd1Uye8b0kNJEWhPSjfDtvGA4XP6cyS/YxB+bjBkKLs6Bq61VxiW9C5OmJ+BG/KFrPcRGyPdnpzRS0sPbTE5tvxrsn3SskPW32LFDNzQSRIe2jqWlvy+J2zwfMDgkuwK034+L38756tzJKEhBf+AhTFIl+zrqLCMYZQUQY2VHApkY+4Rb358aKu/x7IY6BuH7NesDgUy935EmuvsfIkvsdzjpIV+W0tkoMD8SV9D4vvkUKnd5tm2t8A8F1ZeRwU3l7+mmbKQ84ESiUlXX2Heli5jZzm+r3l61CLDXmDIPHaMhFdwlb7HtmgniZKc7D4C+EgQNdzoQTZKEr7lD0EMdPvsGRObKvlMtp/sH82+tJjIEYiS7P6xm8nWM9Dt30lmBw3GJbyCS/gONIbsR83+jq5GeOK7pLOFx2Mxw2GgQHji96CpaOZcoo4GaugSLyt2AE3tBF0jjMJCn/zYd8fQbQV0+YhCU20SbPnpyDmVJic7RKC5OIEXKaZXw5+Xr74/8rvn99qbHh9Bqb0olvGOvnwFoEn+exs/Qam9K5YxvgU0PYDP4p6NtxKNYpnRPYDmJKIB5Wp0AWh6gAa0WL4CoGVrfAuwAJbLIIIYBWBAczCKZRrfAr4CeIMfP+mbh2aI3vgW8BWAZqzJ+f/0LHQN7xUjGejmnNkLpHWCPyeqawN9PUADXS9wAKVkFctEm6CrkPCzZ/IqoOuVvR8Ead0r39CCpmag+xQw6jWB2s+e2QtM7wRdLk6IrFK+8TfQVI7Q5UDCIDIb8OYcFsZXQL//o7f+Tq1cATn+GFAsofdgGkzEBqxEDRbBWHLuFXobXomJVQErw0vEh7MIvxGnRgIG4Q+CkPvUOFOoY6A/05/tsFsgfAWlOg+gX7EY96CN5A/AKjFsRWUjLUgYuKGdNI6PEVFiJk8YvtJSCAdsj0WcpM+e/M4Txm2A7Ag5RzBYJwN3yDwh/kO0DsiE9jFmvng+/y2L5ZJJsKkfilkjw8m2EnE3sv8EEYv8RhHdHVMFLg+zTvGYvO+IvC9ifm+g7BBZQYNpdN/bJ69vuHyHX4P4vpzDnGN3fr3r/TylBq7Yot+BFbMAhIHrDQqkJRetNLhcvNL0fn7rgpYuwR3T+9n17+Yk6y6zgf9Ad2FONqSl1Ji+S1xrrOZRtwVYCCFJr7DSR+sUYCF8lvQDNjJdvsewue61Jf0BG38+omx4gTweLZ8i4d2QNrvxe+xRwBBSDHu47/GxWP6sYNPGD7jh6k9k/vyEHArgmmnjT7hiuMNl7J2bbuj50otXLGy4lmMB3CJFsMNlMkZeu9m4qXRzCM1VvEJ/w0z2llIAn5FC+AOXQ8f162eaq3//B3fMltdVJJiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI1uh/k2a+ouYWRAMAAAAASUVORK5CYII=" alt="Pebblely logo">
+                                        <span class="text-xl font-bold font-logo">Pebblely</span>
+                                    </a>
+                                </div>
+                                <div class="-mr-2 -my-2 md:hidden flex gap-2 items-center">
+                                    <!--[-->
+                                    <button class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-500" id="headlessui-popover-button-765" type="button" aria-expanded="false" data-headlessui-state>
+                                        <span class="sr-only">Open menu</span>
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="h-6 w-6">
+                                            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+                                        </svg>
+                                    </button>
+                                    <!---->
+                                    <!--]-->
+                                </div>
+                                <div class="hidden md:flex gap-6 lg:gap-8">
+                                    <div class="flex items-baseline gap-6 lg:gap-8">
+                                        <!--[-->
+                                        <!--[-->
+                                        <div class="relative" data-headlessui-state>
+                                            <!--[-->
+                                            <button class="whitespace-nowrap text-base font-semibold text-neutral-700 hover:underline cursor-pointer focus:outline-none" id="headlessui-popover-button-767" type="button" aria-expanded="false" data-headlessui-state>Resources</button>
+                                            <!---->
+                                            <!--]-->
+                                            <!---->
+                                        </div>
+                                        <!--]-->
+                                        <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                        <!--]-->
+                                        <a href="/docs/" class="whitespace-nowrap text-base font-semibold text-neutral-700 hover:underline cursor-pointer">API</a>
+                                        <a href="/pricing/" class="whitespace-nowrap text-base font-semibold text-neutral-700 hover:underline cursor-pointer">Pricing</a>
+                                        <a id="navbar-login" href="https://app.pebblely.com/login" class="whitespace-nowrap text-base font-semibold text-neutral-700 hover:underline">Log in</a>
+                                        <a id="navbar-signup" href="https://app.pebblely.com/signup" class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-semibold text-neutral-900 bg-yellow-300 hover:bg-yellow-400">Get started</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!---->
+                    </div>
+                    <!--]-->
+                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                    <!--]-->
+                    <div class="relative text-black overflow-x-hidden">
+                        <!--[-->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!--[-->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!---->
+                        <!--]-->
+                        <!--]-->
+                        <div class="pt-32 pb-4 sm:pb-16 lg:pt-32 space-y-8">
+                            <div class="flex flex-col items-start sm:items-center px-4 sm:px-8 text-left sm:text-center">
+                                <a href="/blog/add-logo/" target="_blank" class="group text-sm border-[1px] border-neutral-200 rounded-full py-2 pl-0.5 pr-6 space-x-3 mb-2 hover:bg-neutral-100 transition duration-500">
+                                    <span class="bg-neutral-100 py-1.5 px-5 rounded-full group-hover:bg-neutral-200 transition duration-500">Latest</span>
+                                    <span class="font-light">
+                                        Add logo<span class="hidden sm:inline">or badge </span>
+                                        in bulk<span class="inline-block group-hover:translate-x-1 transition duration-500">→</span>
+                                    </span>
+                                </a>
+                                <div class="sm:max-w-lg lg:max-w-4xl space-y-4">
+                                    <h1 class="font-semibold text-4xl lg:text-6xl">
+                                        Create AI product photos <br class="hidden sm:block">
+                                        that help you sell more. <br class="hidden sm:block">
+                                        <span class="hidden sm:block">No Photoshop skills required.</span>
+                                    </h1>
+                                    <p class="text-xl">
+                                        Remove backgrounds, generate beautiful photos, and edit with AI—all in one tool. <span class="block sm:hidden">No Photoshop skills required.</span>
+                                    </p>
+                                    <a id="hero-signup" href="https://app.pebblely.com/signup" class="whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm font-semibold text-neutral-900 bg-yellow-300 hover:bg-yellow-400 text-lg">Get 40 free photos every month </a>
+                                </div>
+                            </div>
+                            <div class="min-h-96">
+                                <img src="/_nuxt/hero-examples.89abadb3.jpg" alt="A collage of AI product photos by Pebblely" class="h-96 md:h-auto object-cover object-left">
+                            </div>
+                            <div class="px-4 sm:px-8">
+                                <div class="w-full pt-8 md:pt-16 pb-16">
+                                    <p class="text-center text-xl font-light text-neutral-900">
+                                        <span class="hidden md:inline">More than </span>
+                                        <span class="font-medium">25,000,000</span>
+                                        <span class="md:hidden">+</span>
+                                        images generated <br class="lg:hidden">by creative companies globally
+                                    </p>
+                                    <div class="max-w-lg md:max-w-5xl flex flex-wrap justify-between pt-8 mx-auto">
+                                        <!--[-->
+                                        <div class="flex flex-auto justify-center">
+                                            <a href="https://theshoeco.com.sg/" target="_blank" class="m-6 md:m-0">
+                                                <img class="h-10 sm:h-14" img src="/_nuxt/the-shoeco.035bbea8.png" alt="The ShoeCo logo">
+                                            </a>
+                                        </div>
+                                        <div class="flex flex-auto justify-center">
+                                            <a href="https://evacandles.co.uk/" target="_blank" class="m-6 md:m-0">
+                                                <img class="h-10 sm:h-14" img src="/_nuxt/eva-candles.563b0c5c.png" alt="Eva Candles logo">
+                                            </a>
+                                        </div>
+                                        <div class="flex flex-auto justify-center">
+                                            <a href="https://homesofrajasthan.com/" target="_blank" class="m-6 md:m-0">
+                                                <img class="h-10 sm:h-14" img src="/_nuxt/homes-of-rajasthan.bb31e00c.png" alt="Homes of Rajasthan logo">
+                                            </a>
+                                        </div>
+                                        <div class="flex flex-auto justify-center">
+                                            <a href="https://www.enzosignature.com/" target="_blank" class="m-6 md:m-0">
+                                                <img class="h-10 sm:h-14" img src="/_nuxt/enzo-chehab.6f0a9241.png" alt="Enzo Chehab logo">
+                                            </a>
+                                        </div>
+                                        <div class="flex flex-auto justify-center">
+                                            <a href="https://elemanbeauty.com/" target="_blank" class="m-6 md:m-0">
+                                                <img class="h-10 sm:h-14" img src="/_nuxt/eleman-beauty.6c6989e5.png" alt="Eleman Beauty logo">
+                                            </a>
+                                        </div>
+                                        <!--]-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-neutral-50 gap-10 relative z-10 overflow-hidden py-32">
+                            <div class="max-w-7xl flex flex-col justify-end lg:grid lg:grid-cols-12 w-full gap-16 mx-auto px-4">
+                                <div class="col-span-4 text-left w-full space-y-4">
+                                    <div class="mt-2">
+                                        <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-10">Remove any background for free </h2>
+                                    </div>
+                                    <p class="text-xl">
+                                        Simply upload your product, and our AI will automatically remove the background for you.<br>
+                                        <br>Our AI is trained to remove the background for a wide range of products—in seconds. 
+                                    </p>
+                                </div>
+                                <div class="col-span-8">
+                                    <img class="w-full h-auto" src="/_nuxt/background-removal-examples.c69f854c.jpg" alt="A compilation of product images with and without their background">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-yellow-300 relative z-10 overflow-hidden py-32">
+                            <div class="flex flex-col items-center px-4 pb-10">
+                                <div class="sm:max-w-lg lg:max-w-3xl text-center">
+                                    <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-4">
+                                        Generate beautiful AI backgrounds <br class="hidden lg:block">for your products 
+                                    </h2>
+                                    <p class="text-xl">
+                                        Just describe the background you want or pick from 40+ themes<span class="lg:hidden">to get</span>
+                                        <span class="hidden lg:inline">. Unlike manual editing, Pebblely will create</span>
+                                        photos with the appropriate reflections and shadows automatically. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="mx-auto lg:px-4 max-w-7xl">
+                                <div class="shadow-lg mx-auto sm:rounded-3xl bg-white overflow-hidden">
+                                    <div class="flex flex-col sm:flex-row w-full">
+                                        <canvas id="canvas"></canvas>
+                                        <div class="w-full sm:w-1/2 aspect-square shrink-0 bg-neutral-200 flex flex-wrap relative">
+                                            <!--[-->
+                                            <!--]-->
+                                            <div class="opacity-100 absolute top-0 left-0 w-full h-full bg-black/50 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300">
+                                                <div class="bg-white flex flex-col items-center w-full sm:max-w-max m-10 px-4 py-6 sm:p-10 rounded-lg text-center">
+                                                    <h3 class="font-medium text-3xl text-center mb-4">
+                                                        Try this out<span class="hidden md:inline">now</span>
+                                                        !
+                                                    </h3>
+                                                    <p class="hidden md:inline leading-tight">Click below to create a photo. </p>
+                                                    <p class="leading-tight w-48 md:w-60">
+                                                        Move or resize the product <span class="hidden sm:inline">on the left</span>
+                                                        <span class="inline sm:hidden">above</span>
+                                                        to get different variations. 
+                                                    </p>
+                                                    <button class="block mx-auto text-lg md:text-xl font-medium px-6 py-2 rounded bg-yellow-300 shadow-lg my-4">Surprise me!</button>
+                                                    <!---->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="w-full pt-20">
+                                <p class="text-center text-xl font-light text-neutral-900">
+                                    Try with <span class="sm:hidden">various </span>
+                                    products<span class="hidden sm:inline">across various industries</span>
+                                    yourself
+                                </p>
+                                <div class="max-w-5xl flex flex-wrap justify-center pt-4 gap-2 mx-auto">
+                                    <!--[-->
+                                    <a href="/categories/skincare/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Skincare</a>
+                                    <a href="/categories/skincare/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Beauty</a>
+                                    <a href="/categories/soap/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Soap</a>
+                                    <a href="/categories/candle/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Candle</a>
+                                    <a href="/categories/furniture/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Furniture</a>
+                                    <a href="/categories/jewelry/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Jewelry</a>
+                                    <a href="/categories/necklace/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Necklace</a>
+                                    <a href="/categories/pet-products/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Pet Products</a>
+                                    <a href="/categories/watches/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Watches</a>
+                                    <a href="/categories/beverage/" class="bg-yellow-400 py-2 px-8 rounded-full hover:bg-yellow-500">Beverage</a>
+                                    <!--]-->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-white relative z-10 overflow-hidden py-32">
+                            <div class="flex flex-col items-center px-4 pb-10">
+                                <div class="sm:max-w-lg lg:max-w-3xl text-center">
+                                    <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-4">
+                                        Create elaborate images, <br class="hidden sm:block">without being a graphic designer 
+                                    </h2>
+                                    <p class="text-xl">It &#39;s like being a Photoshop pro, without actually spending the time to learn Photoshop. </p>
+                                </div>
+                            </div>
+                            <div class="max-w-7xl mx-auto px-4 grid grid-cols-6 gap-6">
+                                <div class="col-span-6 lg:col-span-2 bg-neutral-50 flex flex-col rounded-3xl space-y-8">
+                                    <div class="px-8 pt-8 lg:px-12 lg:pt-12">
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Set your canvas size</h3>
+                                        <p class="text-lg leading-tight">
+                                            You can change the dimensions up to 2048✕2048. 
+                                            <a href="/faq/#canvas" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/settings-mobile.429b63f1.jpg" alt="Canvas size setting in Pebblely" class="lg:hidden pl-8 lg:pl-12">
+                                    <img src="/_nuxt/settings.cffa8080.jpg" alt="Canvas size setting in Pebblely" class="hidden lg:block w-full pl-8 lg:pl-12">
+                                </div>
+                                <div class="col-span-6 lg:col-span-4 bg-neutral-50 flex flex-col space-y-8 lg:space-y-16 p-8 lg:p-12 rounded-3xl">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Feature multiple products</h3>
+                                        <p class="text-lg leading-tight">
+                                            You can place multiple products and props on the canvas, and Pebblely will generate suitable backgrounds. 
+                                            <a href="/blog/multiple-products/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/multiple-product-examples-mobile.5c798ec3.jpg" alt="AI product images with multiple products" class="lg:hidden">
+                                    <img src="/_nuxt/multiple-product-examples.ba6ffdb3.jpg" alt="AI product images with multiple products" class="hidden lg:block">
+                                </div>
+                                <div class="col-span-6 lg:col-span-3 bg-neutral-50 flex flex-col items-center p-8 lg:p-12 rounded-3xl space-y-8 lg:space-y-16">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Get the colors you want</h3>
+                                        <p class="text-lg leading-tight">
+                                            Besides describing what you want with text, you can use a reference image to show the AI what you want. 
+                                            <a href="/blog/custom-backgrounds/#3-reference-image" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/reference-image-example.fb828b5d.jpg" alt="An AI product image generated using a custom description and a reference image" class="w-5/6">
+                                </div>
+                                <div class="col-span-6 lg:col-span-3 bg-neutral-50 p-8 lg:p-12 rounded-3xl space-y-8 lg:space-y-16">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Match your brand colors</h3>
+                                        <p class="text-lg leading-tight">
+                                            You can use your existing images as reference images to generate images of similar colors, reinforcing your branding. 
+                                            <a href="/blog/brand-colors/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/brand-color-example.9c1c30bd.jpg" alt="On-brand AI product images generated using a yellow reference image">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-neutral-50 gap-10 relative z-10 overflow-hidden py-32">
+                            <div class="max-w-7xl flex flex-col justify-end lg:grid lg:grid-cols-12 w-full gap-16 mx-auto px-4">
+                                <div class="col-span-4 text-left w-full space-y-4">
+                                    <div class="mt-2">
+                                        <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-10">Extend your images to any size with AI </h2>
+                                    </div>
+                                    <p class="text-xl">
+                                        You can turn a single image into multiple marketing assets.<br>
+                                        <br>
+                                        Marketplace listing photos<br>
+                                        Social media content<br>
+                                        Website imagery<br>
+                                        Email banners<br>
+                                        Ad creatives<br>
+                                        And more<br>
+                                    </p>
+                                </div>
+                                <div class="col-span-8">
+                                    <img class="w-full h-auto" src="/_nuxt/resize-examples.46ef5966.jpg" alt="An AI product photo being resized to various sizes">
+                                </div>
+                            </div>
+                            <div class="w-full px-4 pt-8">
+                                <p class="text-center text-xl font-light text-neutral-900">Suitable for all marketplaces, platforms, and channels</p>
+                                <div class="max-w-xl xl:max-w-7xl flex flex-wrap justify-center items-center pt-4 gap-x-2 gap-y-1 sm:gap-x-8 sm:gap-y-4 mx-auto">
+                                    <!--[-->
+                                    <div>
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAoCAYAAABjPNNTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAStSURBVHgBzVhraFxFFP7O3ad5WfMwrdhoY8D8KKnxTykEI0Gqf0TBB/hDJDXGGhutFUMRFFMotr5LbSObtorgjyAVrBgfqIjSUGzBN01LNQFLmxqT1iTNbpLdnX5zN49N9nXv3e22H1zO3Lnn3PnmzJmZMyNwgJp25TsTxuqIwjojijuVoA4KZfxUwsdQQFCAf1kehOCwUvix8CKOjH4kY3AAsaNc/IgqnylBGxt9gIZ1sId/+HzjcWHneJecsGNoiWRpuyqZnEIHPfQ0DZYhS/AfB5ULHaEu+duifnr4n1CN1HqfxVXIJQRDEsWbwW55I7NqKigl/lZspcZ22AwLOxDBZ26FDeMB+S+lTqoP17Sq1zi8LyAPYDu/eHxYP7FbhpN9T0qSBHfR8BnkF/0eDxrG98jI0g/upRX+FvViNgQ5fKivAtZWAytLgQKvroQaD0JGJ4DjZ4HvObdDMwmmteEIDlDel/DP+JeCZnV71INjcBCDxX6g/S5gYyNQUZJe9/keqL3fJW+DlVuCAXk7vs6YLz2qCkmwBw4I3lwO/LAVeOnezAQzgaO4o7hV1SIZSX8BHqaogU0U+YDe5zhWK5AreGcE78ZXxEg+pLzswnY4wOb1UKvKkVsoNBVsVPVzryZJ/3V4kMK2L3ycds0Nl2UN5VRbmLzu2aoNOhjsovFW4IYMm+RP3Pi+/hPq3BgkGgVcLqhjA5k7FlV47Nqn1Jb/u+S829eqbiHBO+AAa1am/76zF9h2yGwwnpRVz0swjCbKg4ZLsJoFDxxgRRovDl0AOj81CToGuTVoaXAI1sAhSotSB8mRv4As+Jmg/T1aGoagGg7hdaX+NjCSNUcdF8u1NJjA2l4brSAcRdZgL5dVtKkiN1P/MqtGlSWLvWPuyylQ6EvUn4Oe6bCI8SmUMWeMHqdja60YfMGdZV3NQsMuA+I2kutqT0aiiSRZh+ufhUQselrcqOI6KfrAZImk22Uu4Ja8oMnzSdD97TRUxEYoBIdxTv/G0jkjV+g7ZX2oqXgBH8u0wQE5hTyi/6x1Xc6Xk1oa4ooV8oUTQ9Z1ReGwltqTffTrBPIAHYtHB6zrU/1bLc348D+pviTZuzMZ8WCvjwfzM/bDFub69clj7K2voDoPLa7jmoyZiOWYnPC5UGUmGLNM99E+I0k2MKseA/fllLsKr2AwHc4ijRN8ognqornKBRV6WXkaVxE8Cq/OlWNLcUAmGQDbcPXgc14W9M+9zO8XoUn0cGz6cKWhJ7GBTfFVC5sar+UYY81UmsIVBJedl0PvyWB83aKdd6pbTnIq6F7kIIdxhMDSM7dGQnoQCsg+ivzHJxfuAl/yu6ekOQyJdtLtu5AncC4c9QjuH92d/CbYSGXIe8PNNO7A5R/6A0VuNKW7+jPSWTM+Xucmcxu7+gdyj/NsvI2j9vjwXkm7LaclqXExIL+XKqylV5nympf12SLC+NvvjaBmMiBdVgwyktQ4w8WeXn1n+TRuosEmHeRQNg9agn52dIfhRVWoW1rG9suoVVM3bGDwAwlR7NGPt0XVVVeax2F9saDP7jcidrrTHR9hVq5j7Gf2pM/gdWJlBX4dfMW0t41LlGRpiTgUw8AAAAAASUVORK5CYII=" alt="Facebook logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,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" alt="Instagram logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,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" alt="Pinterest logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAoCAYAAABjPNNTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQaSURBVHgB7ZhrbBVFFMd/s72ohVKk1lLkYYuFGB8YK0YtxNiqEMSARsUAGsAPqPhBfGHQEijxibGmSqImRokGP2BI1Iih1pZCeQRI0WJMAaE2qIRCe9umLW1pe9czzF62t3tLgdzAktxfspmZMzN3/3vOmdm5q3CwJ05No7N7mdRmSzNdLouLTwuKrYQCH6mDJaVhozot8Ib7sgionVJNxR/Yoixf7d/8jm4o+6ZpKfScqpR6Bn6jR01Th8p+sbC75+BHgZoEe7UuLEKhmfiXiXbW9GQLpbLwL4pAe4qsYPtSrOLzwvcCNXGRsSIuMlbERcaKgUV+UgCfvgXDh0Xvn54Lpd/CmlWmnSA/ecWgyEvbLLkGSf3LD6D4G5h6r7H3JhCIeovo1t7k5sioBHOzvig5RC1+GkbJya7oK2N77VlY8ETkuIIi+OcofPG+a/t4pSkP1sDz+fDUozD/MZn7CuyuOk+R6ix9U+6E8RnQ2Aw/lXJBTBgHK5eIV8URPSF9SPPgDffbr8L2DfDcvEiV2mv355i+cGgXPm7KYcmwdT0sXSQeEo8uzjf21pMwYyH8UAw75DQ4Rcb/d8z0vSEHnJcKTH30SJmzHO6aBXuqPJK8nkxPg2uGQ7A5QuNpunpM37ixJgUm3eY8qgxKTZFcq4CTHdDQ6M6pbzQ2nZPBJvGU46q2djhe7zqgo4P+8IpMvNKUjU3e0WHhgxNNWB5aAIvmwuwZsG0PVFXTL/uKzYOFKVrh1jNGw67vYeNmWFXkmeoNd9IQU+pQ9aWl1R2TnAR1J+Ce243txxKzei8UnTJzJdx3Z3u6Ij2pk/fqZFPX4ehLmyN8iHgyaTBk3wpjrjO2FZL8rTKnbDtRmf+yKVcvM7vBZ+ugYrex6XC/97rJzZGpA4hMlXxLFAEhWWWHa703qg/CMfFe+rUmB9tF1L798isSkOMNsLOSfqn8I7J94HCk7chRIzIKkSLrJJG37IKh4qXOLhF8lXnK3mzaAjePh9/+lJWbB5+vM/YTQePhnDtgrONdvVlPniS/1Sl73++SLm1eBUOd9LKczLMHEqlZs9bkW/Yt8HWhsWnPNreY+trvZG/LhMwx8GG+O+8F2UJmPQjzHnFt+iELnTF5c6KLXP4izHzAbTc0nYPI2n9NqT1YtgPSJKzrN0ponS1Ch1tfz8g3hOpD5tGbWsxb4smHxfYXUek8ZcqaI2YBBh0xG36WF8L10C3bW8k2N097oewbc/+W+2TgV5SdGT+qxYq4yFgRFxkrLheRKoSfUZb+WGXX4GdGhOrk0x8l+BXFXlVe3mExwi6U12IdfsS239SFJUq7CanJoroW/6APbEvVgfJNunHmsGhPyBsly2iJqJc/v8ix5KKvfC1M/kSpX7G63lXVFXvDHf8DoowkXPePrgoAAAAASUVORK5CYII=" alt="Xiaohongshu logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAoCAYAAABjPNNTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQbSURBVHgB1ZhLaBRJGMe/KockYNxt2bC7uAu2j4MHMTnoQRTsETR6cnLxJBhvag4SBK9Gj4JE8Hkzoic9JF58INiCogcFY1CIoGYOIioRg4lmFNPl96+ZCu1MPzM9Pn7QVldbk/n396waQQk56W7qIJIPSYiBHufaLjw77W6xPVIu7nvy15dg7Hcdq4ma30tet4fXHXe39ElSBwXJrr35q0P4zJ78tSKlQKZYOsj/FKWiQ+aJIrWPB5toXpd51pu/NcHDhKfUQsxzRAOYK/L6T7id76e/eGM7+zecpRQkEsnWcMpixDm/FRRRQZC41ZO/Mlz1EQhtP+V2Ds6Qesj3Fj4vyiMppbrTCM0lWcTu2okvlmWrVIRvLlSE92ION7KgAq/ZpvRz/RIQFkhFaAe/ZH6gV1s/FEExmBjzxyI46XbCEt38An2KhMOCHErA5y+Khp+U/I+KQoiimXied/n8/tvH/AtiLZmjJgcjx+I5jGwxFqS2edrV/EdJ9FF92GxV20yklAiJdCIlWwkjkoQDf5CzWcdVrAvmiF+wIfC7zroF6yNNd1fiy6EMCXB3DVLIhf44zfmFlejTPsTXJ5p2oF7RT8Pma7ZizIpkYVwqhE2/ADPeDDeOAJFUKRtpWNDyD7W1LqXmXKuef/46RZOltzQ+9ZzqgbO9wz/XIsstLxnNufm06v8uWvHvJi0yiKuPD9PY+F2aKyzyT6oW6dE8SyaIQIhbY+/QQqN4NfGI6qTWkoJUrCUhDlcc41Mv2O0fqR6qy5Du3SImHuHaJAJBBlYEVne/Y5uJEbk4bDXibnVCgeDF+D3KiFnvanerCEv+Z62iPwISZPT1DZ0cxrVtrctoadtatuQIZQGXIes7kRQhEq6u5n7xgr78QNzIy0HKCn8ZktjlUGWfF8RfbKFqxrJzaRS2uZE5aonM7KBys6Dlb/oBtJsbThzPopRsXLGfa2aBGoxtbiTvjO2olR9Kb2qeoQ2uX75biw3rOllgypCMq5FPOYvDQFIVOo7QEs7qBqFDESLbo1aNvByK7CCw5NaVBxMX+zRwGbIx8qmAImMSO5uh4QOxrQ4iF3FNzRI+SmgDouPEJs473npdfLA3MD79ZG1NVTm7J/5xYJIFXnrQo90fBrpTxtactWRi4Po7z85ECsUmOENsznArlUhDdUv0Y3bpGRItEiUmqOPAomGJhP/LmkiR67hgb199quaogB162O4cZ5ysCf1xoHzAmq8vdBaALG9id0Z1mXoPYalELrJqa3zQjsgP9piTMWVqLoS6O22WQlxUQtVDqEh84WhE3/aDJLrCx9hGWBGEuhtfeHP0qBaKxAnaoUMcjhB4oUYJjBRpwLEAFwQjJk1WQ+BU6XXdx9ckJPql1/CuAZmbhDl1nB/NbyHyGy6Uiyc89/DuAAAAAElFTkSuQmCC" alt="Shopify logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAyCAYAAAA0j3keAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAUeSURBVHgB7VlNctpIFH6vxQEEPsDI+9ghJwje2zE+AeYEwScwOQH2CQInCDbem9yAwU7V7KLZjwc8q6kp1D3fa0kgbCBqcPAs5quipG5a3Z9ev35/YtoAo2q5ok1UY02BtA3RQHneZbE7CGlNMK0BIWKi6DNug0X/g1gbxD6tQ8yZ0OjDfs0Y046f5rHRuqOYB2j4mkwZE9aSoSF73oErKSdCkEwAyXyXe0ihAyk0sOD42Ritb8mYgAwPSjfDd+QA5TIYZG7lirfo7vTuTp+SEYhEWKkDDBoTm/LDh/0mOSA3odFhuUKpznje2aqxlpQhO4aN+Ug/g5DmyOoGpNPOoxfF3l3bSonIH1XfVCgnchNi5nJye5X3GUNsx2qtKnmfKaQ3UEYfF3/p5DoK5BrFYwPKAR1FI7li296ueiYr8ekp+/Nob7SK0M8EK6jB1V1d7rNb9ipknmJGKFbAV8eMkHk9Qtrw7+l9gTZDn+1JMuN4YrgOpd7DSpdpTcwIwS9honxPMYesdb14c9+Xppyg7ElJXIw430qu+TK7MyNkTO4tE9dQvB6GcLQf4WibWNzHKSXxXXJiMORKi6/LSciQWUCI8ulQaqlHh/vnQmb+T1OGkC8oihpqzVM7JWSYHznHlsEwfrXjFVVp+fCAHOB5Jkzvnby9AEocv7nDFrsgSyjnlplje/X0mSg3vTCcCQEVKPN5sfttIMotgZo9oRuhEC4ilBuizEJK7iVQK10Pi1D2EzS7tCGmzvXhaL+B7WiRG8aQUBehbAcnry8dSQj7xcU4lnp3Ux5TCWVtgQN8zHQqoS3s0Pc/jvYkrA0hsXeQ4idaA2tt2RIEmOyzEBMp7dzcN9HXJ0eso9Q/JJa4jWnE+AOEtIiQZ7yXtCsVovXUwH3L8tgemzhmjOhqhLSQUGH+j2VkxPbAxRwsJQabhDH1mFBsRF3gFg8Z4+tIV6GwF2jtjo72qoiBKshI3sK3hUrzr6SUON9xEglUyBGuAZovtgon6ZgJVY7eQAzhnDGU7AVkWiDTyDMhwpVwrp1tYKGcEdoUorQDk0zKEXI3dosWsxmHYNMQVpS2gvpQMrvr+0juxo/Z9tNTFtK2wctOGYnOcoe2CZxI5anuUkI7N8MmlPGStgEbf6uD4gblv//xn4C1QzalYTq1+b2WTsTLYhG8qJa1EdtAQUp1hqMDRG27lpyt40DXJ26pzIsRkpWzFi3VehAN6BVgt+zh8M0FHOQxAqpLsQtxZgrJkW5hBKyx8fH/BdJnG5bGvsomivDs1JV+VFvbiAJ+wZSBDc2Y28/GSz/RGeqP3Vn+n4xPatrWDsF7N6RDGlJj/gvFcUtXwZl6SrazCPtUlphZfpr0Y6k33OWCOoFoq2lRE4uNbT/mSvtlvBQxpv1MLXHAKPedY62raf9k8mUqoSwS5rdsvDp0qwEyVemXifHWeBvEzkojxIgrH7YOLdULpvKz/hgBFOL93LZ4um60auG5uQBOyCn5boHFqpl+P038sB2jp4RxCkM4xOOEvI9tqilP2wgx7bfPotCpjBlg0QFC2a4sJr8IZIQ0JPiVmdppP3ZC8jrr7cMkWwBj++3Ch0k/wcILw09xL6JzUiQ1kZbxl6Xetz4kcgpxlyXrsLEi607p+t76qXQ8+scUmRAvIi/QRJUE6+7bTxV6MpGEoMGZrQKBv/1i97cw25d+PkjKxrToc0KyRW3ZMrzjYNW4rUEIuVTsl+HFEkUlsdQ/m5do/gUmaI7XgwgpJwAAAABJRU5ErkJggg==" alt="Shopee logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,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" alt="Lazada logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAeCAYAAACfWhZxAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATYSURBVHgB7VhRcho5EG0NuILLjoucwOQEyw129gQmXwv+CZzAzgmMT+D1CWB/dr3+MTlB2BOEPUHICXBs2OCyZ5TXGmlGDBqHmTgpqMqrogZpJI1a/fS6JaKf+DbIBlVpA1C2C9MmfaACkIKqQlJ1RjRE8TdacywYLYk6ePiC6DWeNav+NGsAvKt5UrXfGCwY/fxCeWp406IRDLmy6ruPDXLbomt4+giLNXa9/9ykWuBRdfcvGtEawHNVwoBryoGypD8eex8Q9URIR7QmcBsd5DN6+wIeFu4+7GU8fFojlF2VpRJdB5QTkt5IR3VI67ffy1QQkzZVt+bY9x694b26e0H9dJvPLXodyEQPOKTNK1FYe4AAag2JMT2kOhbPx/b6RbXnbebRRzxH3Jb7TytUL1va8aAFl+sU4/Q4MlwMn1zeu6SBblsMpTtFWb8ULtP6/0M6CkNqwGA//ihRe1ahtimLKLwNTXnWpBNMrMt1oaT/eLsIAZZIqgnd5XabfBZYm4X63ZiiyDNWdfg2Hif2nERJiei3GY2PH/BzPl82GgZ/gpH/ajVvcx2XjZEQkn3Q/qNpj/ygjfddnjQYY8f57rRFE9LCuvc3DaARLwNB71FnPNlHn479/R1EG7Trm3ZgyvnuPGHcSkbDCz27jEHqePCPXgyWjTZUv22qmN/Whn7YyQh9GO8AXjXeT787x7sDU2YKY9xzkXiyRlmIFmb4/B86tqs9yglORvL3WnFsQQ2t9jHglX4YLCZHDxWEyCRa+BNH+hskEePP9LuVPL2Tog/jBvTxnkqZBfYwYR/CM5jsO9D9dGdOAwEWaXEa281f9Oka339rvr+1rdiUzhWYCWOXwBb3mYhEIe2ZIlCeSwyr4deD6L1nccsaH/TuxwWZ0J/B20qNo+eYRmGjg2cIIcjJXUKWF+y5Eg4q4SIVayxuyvOHkX7YMCmzLvr24uizA5WgB67vFTaaJ8o5uS1kvMKzVpKz5wHTeO+C2jD+Zdp4ePKd0+OC3pq/D1owdTv+3zdxOw2n0UFQ7FzMiipl/r7sSSNGtvEYMDqgYExjlI37Z6C4FjQovMrtkRs0oi7LAmbgNFqW8k/c5NhSKlHKB0m9cmUxrLDxoOcrSia6n+7GbIuNw8KovczGiyiDy/jaavSerHAjwicp9Sfj4CFT8XThlkWq7GvpFGYfZKTIWExpiZVQW4u3g3MvG5TTE+HcVqRSuK0KXSFEOOni4dZEq6evy/GZGao82rrDpCPK+8iujuG9wX1I9ZlHZ/BMJ/YI37xArREe45jMmZruy153KjH3Rzseg3N21dYVpjKNRpiYCHc738s6HqaOVqF1Fmf6TX+HEYLOdNszMOLM86LbGGMwp6ReNFQX7Rvw+kgzw8dviP3dyRIlBRY0k+dnhKnF5haeIua6JsfjshDxvlQ0FTRM36LELBM4IXG+DI9hcUar3LaoE98d7vfQjwXw0QXaJPDC3TSXFdy8w5XVZJo6I2ThO2XRT497MACT7bnYiDB1xVdcpUcuMG0UPlr+aHha/UOhsrMx/+ctAR1ivajjDP1q+3I1Wm+M0bhg+JWPn3iegOa8d/engo5FtP9Pdy+/LmAGm2O0oE9KdTXNOWjA4DE83MljcDTEBoHTVYRETj6qqyr7T2h8AaAT5F9cyjF1AAAAAElFTkSuQmCC" alt="Etsy logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,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" alt="ebay logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,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" alt="Walmart logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,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" alt="Amazon logo" class="scale-75 sm:scale-100">
+                                    </div>
+                                    <div>
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAOCAYAAABqxZFyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALlSURBVHgB7VfLkRoxEBUsh92T58KnioMnA+MIPBuBlwiMM1giAEeANwLIwN4IGEfAOALGB6r4HBhf+BUfv4e7XfIUsAwFF2pflZDU6p9ardZgzIWQy+UeCoVCxVwh0uZCSKfTD+g+mSvExYJ2zXgN2gl4DdoJyPDHdV1nOp1WUqmUg2mI5vf7ffYmm82Wbm5utvTNZsM6ZcD3XdcVKPoeOg88EddfMuwAt7e31OdTr9huUa/qok3MW7bcIV/Fjwr8DZbLpQeeSOVtufV6HQyHwxd93IcUHYTTbSjzzd/AeFy4u7t7H4ZhhPU6aCzoDEaEsWuvc5zP5xvoHkWHAU+JusTp+12GodcFXxfDwNK7DRwDJjT6Uh0MBl8pwwPEA9MWFbRFOyaTyZR7vV4gvmwkmNTLgylPJhPqa6IF1h4j7OFe95AYPAUdMwNoWD8XGDSZu9b6GO1R1iuy7qkObk5o7X02qc+2Y+ntWDy03dU5x6C1bD34tGnFeDbqW0yuHrM9tmlJsL2es9mMm/zIMU7hR5yJGaRXIALAG8j1ID/lnrHuK/9oNArAw/R3jvDBj+m17Yc6kBvhYvhf5iLzeBO6xWKxpNnGLI3LoTmxIIVyIxIjjZOqQfgbbaH9ku+rJHDg5DhOBO23OS9c/sRrqc5Xq5VzSA7+vEH3VhuvKlrHnIAMBCvov2jdIHDiST5KfyLo7+JE0D5Ad2jOB58/zBw7qyWTOAx3CSGYARLB4HF40kwUOTd+AMeCnxyhbpq1TYr60cBL1EJXYsbSEUvHMVfzaMgG+dI2tX5KwFjgW/sCwFJBObymTV5h+qePn12X+bfPluOa1nFC5Ors09h0FUY9FlA8yeOk14pOwYHPzFjWFtHBWuGbM2M+n5dZ82TDG/YgP+OFrB6Sgwz9ixC4Dv2TcvSktwvzBtZryi/BaoD+70Fh3ce8tlgsPGMz2q/oKaAO+3QuBTn1xP6qXJy+Sxe/AHbR2P8BFrGgWzN8l7kAAAAASUVORK5CYII=" alt="and more..." class="scale-75 sm:scale-100">
+                                    </div>
+                                    <!--]-->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-yellow-300 relative z-10 overflow-hidden py-32">
+                            <div class="flex flex-col items-center px-4 pb-10">
+                                <div class="sm:max-w-lg lg:max-w-3xl text-center">
+                                    <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-4">Edit generated images with AI </h2>
+                                    <p class="text-xl">Pebblely is more than an AI image generator. It is an AI design tool. </p>
+                                </div>
+                            </div>
+                            <div class="max-w-7xl mx-auto px-4 grid grid-cols-10 gap-6">
+                                <div class="col-span-10 lg:col-span-5 bg-yellow-50 flex flex-col items-center p-8 lg:p-12 rounded-3xl space-y-8">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Remove objects in images</h3>
+                                        <p class="text-lg leading-tight">
+                                            You can remove objects or change parts of the image by brushing over them and re-generating. This lets you fine-tune your images, without generating from scratch again. 
+                                            <a href="/blog/edit-background/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <video class="rounded-xl" autoplay loop muted src="/_nuxt/remove-object.1f801d9a.mp4"></video>
+                                </div>
+                                <div class="col-span-10 lg:col-span-5 bg-yellow-50 p-8 lg:p-12 rounded-3xl space-y-8">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Move your product</h3>
+                                        <p class="text-lg leading-tight">
+                                            You can re-position, resize, and rotate your product in generated images. Every generated image has two layers: the product and the background. 
+                                            <a href="/blog/edit-background/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <video class="rounded-xl" autoplay loop muted src="/_nuxt/move-product.434711aa.mp4"></video>
+                                </div>
+                                <div class="col-span-10 lg:col-span-6 flex flex-col bg-yellow-50 gap-8 p-8 lg:py-12 lg:pl-12 lg:pr-0 rounded-3xl overflow-hidden">
+                                    <div class="lg:pr-12">
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Reuse backgrounds</h3>
+                                        <p class="text-lg leading-tight">
+                                            Love a background you generated? You can reuse it for different products by replacing the product. 
+                                            <a href="/blog/reuse-background/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/reuse-background-examples-mobile.cb97f240.jpg" alt="AI product images with the same background but different products" class="lg:hidden">
+                                    <img src="/_nuxt/reuse-background-examples.d32a6faf.jpg" alt="AI product images with the same background but different products" class="hidden lg:block lg:max-w-[110%] lg:w-[110%]">
+                                </div>
+                                <div class="col-span-10 lg:col-span-4 bg-yellow-50 flex flex-col gap-8 pt-8 px-8 lg:pt-12 lg:px-12 rounded-3xl">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Add logo or badge in bulk</h3>
+                                        <p class="text-lg leading-tight">
+                                            Decorate your photos with your logo or a badge to help convert more shoppers. 
+                                            <a href="/blog/add-logo/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/add-logo-examples.6617670e.jpg" alt="AI product images with different logo or badge" class="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-white relative z-10 overflow-hidden py-32">
+                            <div class="flex flex-col items-center px-4 pb-10">
+                                <div class="sm:max-w-lg lg:max-w-3xl text-center">
+                                    <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-4">Generate product photos at scale </h2>
+                                    <p class="text-xl">As your business grows, you need more content than ever. Use AI to help you scale. </p>
+                                </div>
+                            </div>
+                            <div class="max-w-7xl mx-auto px-4 grid grid-cols-2 gap-4">
+                                <div class="col-span-2 lg:col-span-1 bg-neutral-50 flex flex-col items-center px-8 pt-8 lg:px-12 lg:pt-12 rounded-3xl space-y-8">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Bulk generation with our app</h3>
+                                        <p class="text-lg leading-tight">
+                                            Easily generate product photos with similar or varied backgrounds for up to 25 products. 
+                                            <a href="/blog/bulk-generate/" class="group hover:underline">
+                                                Learn more<span class="inline-block group-hover:translate-x-1 group-hover:text-yellow-400 transition duration-500">→</span>
+                                            </a>
+                                        </p>
+                                    </div>
+                                    <img src="/_nuxt/bulk-generate-examples.86f38fb7.jpg" alt="AI product images with similar backgrounds">
+                                </div>
+                                <div class="col-span-2 lg:col-span-1 bg-neutral-50 px-8 pt-8 lg:px-12 lg:pt-12 rounded-3xl space-y-8">
+                                    <div>
+                                        <h3 class="font-medium text-2xl md:text-3xl pb-2">Programmatic generation with our API</h3>
+                                        <p class="text-lg leading-tight">We have generated up to 200,000 images per day and can go even higher if you need. </p>
+                                        <div class="flex flex-row gap-2 pt-4">
+                                            <a href="/docs" class="py-2 px-4 bg-white border border-neutral-200 rounded hover:bg-neutral-100">
+                                                See doc<span class="sm:hidden">s</span>
+                                                <span class="hidden sm:inline">umentation</span>
+                                            </a>
+                                            <a href="https://dashboard.pebblely.com/signup" class="py-2 px-4 bg-white border border-neutral-200 rounded hover:bg-neutral-100">
+                                                Get free <span class="hidden sm:inline">API </span>
+                                                credits
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="bg-neutral-900 text-white max-w-sm sm:max-w-xl md:max-w-2xl lg:max-w-4xl xl:max-w-7xl h-[400px] overflow-scroll mt-4 rounded-t-xl">
+                                        <pre>
+                                            <code>
+                                                POST /create-background/v2
+
+    RequestBody:
+      <span class="text-neutral-400"># &quot;images &quot;- A list of strings, which are Base64 representations or URLs of images</span>
+                                                images: <span class="text-yellow-300">List[str]</span>
+                                                <span class="text-neutral-400"># &quot;theme &quot;- One of our 40+ themes. Use our free Get Themes endpoint to retrieve the full list.</span>
+                                                <span class="text-neutral-400"># This is ignored if `description` is supplied</span>
+                                                theme: <span class="text-yellow-300">str = &quot;Surprise me &quot;</span>
+                                                <span class="text-neutral-400"># &quot;description &quot;- Custom description of the created image</span>
+                                                description: <span class="text-yellow-300">str = &quot;&quot;</span>
+                                                <span class="text-neutral-400"># &quot;style_color &quot;- Hex string representing a color e.g. &quot;#FFFFFF &quot;</span>
+                                                style_color: <span class="text-yellow-300">str = None</span>
+                                                <span class="text-neutral-400"># &quot;style_image &quot;- Base64 representation or URL of image</span>
+                                                style_image: <span class="text-yellow-300">str = None</span>
+                                                <span class="text-neutral-400"># &quot;negative &quot;- A list of comma-separated attributes that should be discouraged from the image</span>
+                                                negative: <span class="text-yellow-300">str = &quot;&quot;</span>
+                                                <span class="text-neutral-400"># &quot;generate_plus &quot;- Whether to use the Generate+ pipeline, which takes longer (~15s) with better quality</span>
+                                                generate_plus: <span class="text-yellow-300">bool = False</span>
+                                                <span class="text-neutral-400"># &quot;transforms &quot;- A List of Dicts that has the following parameters (all optional):</span>
+                                                <span class="text-neutral-400">#   - &quot;scale_x &quot;: float - Scale the product image horizontally</span>
+                                                <span class="text-neutral-400">#   - &quot;scale_Y &quot;: float - Scale the product image vertically</span>
+                                                <span class="text-neutral-400">#   - &quot;x &quot;: int - Translate the product image vertically</span>
+                                                <span class="text-neutral-400">#   - &quot;y &quot;: int - Translate the product image vertically</span>
+                                                <span class="text-neutral-400">#   - &quot;angle &quot;: float - Rotate the product clockwise, in degrees</span>
+                                                <span class="text-neutral-400"># If no &quot;transforms &quot;is provided or is an empty List, the product images default to being centered in the 512 x 512 canvas</span>
+                                                transforms: <span class="text-yellow-300">List[Dict] = []</span>
+                                                <span class="text-neutral-400"># &quot;autoresize &quot;- Use this parameter to automatically resize and center your input image to fit the resulting output</span>
+                                                autoresize: <span class="text-yellow-300">bool = False</span>
+                                                <span class="text-neutral-400"># &quot;height &quot;, &quot;width &quot;- Height and width of image, up to a maximum of 2048</span>
+                                                <span class="text-neutral-400"># If only one dimension is provided, the other dimension defaults to the same value and a square image will be generated</span>
+                                                height: <span class="text-yellow-300">int = 512</span>
+                                                width: <span class="text-yellow-300">int = 512</span>
+                                            </code>
+                                        </pre>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-neutral-50 relative z-10 overflow-hidden py-32" data-v-642cbc9f>
+                            <div class="flex flex-col items-center px-4 pb-10 space-y-4 lg:space-y-12" data-v-642cbc9f>
+                                <div class="sm:max-w-lg lg:max-w-3xl text-center" data-v-642cbc9f>
+                                    <h2 class="font-semibold text-4xl lg:text-5xl leading-none mb-4" data-v-642cbc9f>100+ templates to get started with </h2>
+                                    <a href="/gallery" class="text-xl hover:underline" data-v-642cbc9f>Browse all templates → </a>
+                                </div>
+                                <div class="px-4 space-y-12" data-v-642cbc9f>
+                                    <div class="max-w-7xl mx-auto grid grid-cols-3 lg:grid-cols-6 gap-1 lg:gap-4" data-v-642cbc9f>
+                                        <!--[-->
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Emerging from rippling water, pink background, shallow depth of field</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/skincare/skii-water.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product emerging from rippling water, pink background, shallow depth of field">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on an orange surface, orange background, studio photo shoot</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/soap/unbottled-orange.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on an orange surface, orange background, studio photo shoot">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on a log, forest in the background, shallow depth of field</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/skincare/serum-forest.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on a log, forest in the background, shallow depth of field">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">In a pastel green room</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/furniture/armchair-green.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product in a pastel green room">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Emerging from rippling water, blue background, shallow depth of field</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/skincare/laneige-water.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product emerging from rippling water, blue background, shallow depth of field">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on a table, surrounded by lavendar, product photography</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/candle/candle-purple-lavender.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on a table, surrounded by lavendar, product photography">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on a white rock, pink background, product photography</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/soap/ashley-pink.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on a white rock, pink background, product photography">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on a wooden table</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/soap/unsplash-wooden.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on a wooden table">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on beige silk, product photography</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/jewelry/ring-silk.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on beige silk, product photography">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on wooden table, surrounded by teal gems</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/jewelry/earring-gems.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on wooden table, surrounded by teal gems">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Around a tanned model &#39;s neck, red casual top, necklace photography</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/necklace/heart-necklace-red.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product around a tanned model&#39;s neck, red casual top, necklace photography">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Around a young woman &#39;s neck, blue top, necklace photography</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/necklace/pearl-necklace-blue.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product around a young woman&#39;s neck, blue top, necklace photography">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on a marble floor, beside a dog</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/pet/supplement-dog.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on a marble floor, beside a dog">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Standing on a white riser, yellow background, studio product photography</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/pet/food-yellow.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product standing on a white riser, yellow background, studio product photography">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">Floating in water</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/pet/toy-water.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product floating in water">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">In a living room, beside the window, blue sky outside</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/furniture/armchair-window.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product in a living room, beside the window, blue sky outside">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">In a white living room, against the wall</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/furniture/cabinet-white-wall.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product in a white living room, against the wall">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item rounded-lg overflow-hidden" data-v-642cbc9f>
+                                            <div class="gallery-item-content w-full h-full" data-v-642cbc9f>
+                                                <div class="w-full h-full group relative cursor-zoom-in" data-v-642cbc9f>
+                                                    <div class="w-full h-full bg-black/60 absolute top-0 left-0 opacity-0 group-hover:opacity-100 transition-opacity duration-100 p-4 text-white flex flex-col justify-between">
+                                                        <p class="line-clamp-3">In a brown living room, beside the window, blue sky</p>
+                                                        <div class="w-full flex justify-end gap-4 flex-wrap"></div>
+                                                    </div>
+                                                    <img src="/categories/furniture/sofa-blue-sky.jpg?width=720&amp;quality=75" class="object-cover object-center w-full h-full" alt="A product in a brown living room, beside the window, blue sky">
+                                                    <!--[-->
+                                                    <!---->
+                                                    <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                                    <!--]-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--]-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="bg-yellow-300 gap-10 relative z-10 overflow-hidden py-32">
+                            <div class="px-4 space-y-12">
+                                <h2 class="text-center font-semibold text-4xl lg:text-5xl mb-5 leading-none">
+                                    Join 1,000,000+ creatives <br class="hidden md:block">who are creating with AI
+                                </h2>
+                                <div class="max-w-7xl mx-auto columns-xs xl:columns-sm">
+                                    <!--[-->
+                                    <a href="https://laceyboheme.com/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely has been a game-changer for my jewelry startup. It allows me to create stunning model shots without the cost of hiring professionals. I can create images with the right look and feel for my brand and then showcase my work beautifully on my website and social media.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/roberta.7ed852d4.jpg" alt="Roberta&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Roberta Lacey</span>
+                                                    <span class="text-stone-600">Lacey &amp;Bohème</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.evacandles.co.uk" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>It effectively resolved the problem my business had been struggling with for many years, considering the dynamic nature of product changes and their variety. It was very helpful, and I strongly recommend it to all entrepreneurs. Thank you!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/ewa.e7ef0db4.jpg" alt="Ewa&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Ewa Kwiatkowska</span>
+                                                    <span class="text-stone-600">Eva Candles</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.enzosignature.com/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                Working with Pebblely to create images for our Instagram ads has been a game-changer. The difference between creatives made via tools like Canva and those generated by Pebblely was like night and day. Our engagement rates skyrocketed, and we saw a significant improvement in overall performance. <br/>
+                                                <br/>Thanks to Pebblely, we now have visually stunning content that captivates our audience and delivers real results. I highly recommend Pebblely to any business looking to elevate their social media presence and drive meaningful engagement with the power of AI.
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/sebastian-yoon.fcc0814f.jpg" alt="Sebastian&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Sebastian</span>
+                                                    <span class="text-stone-600">Enzo Signature Co.</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.scrollback.co.uk/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely has been a game changer for our business. Many of our clients lack the resources for frequent product photoshoots. Pebblely offers an excellent alternative, allowing us to produce stylish lifestyle imagery. The impact on our engagement rates and ad performance has been remarkable, making it an indispensable tool for our team. I highly recommend giving it a try, you'll be impressed by the results you can achieve!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/christian.3197268e.jpg" alt="Christian&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Christian Hornby</span>
+                                                    <span class="text-stone-600">Scroll Back</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://bohoescape.com/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>All my photos are professionally shot with plain white background but it's a little plain, if you know what I mean. Pebblely has made it so much easier to put them into “lifestyle” situations.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/athirah.539a095d.jpg" alt="Athirah&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Athirah</span>
+                                                    <span class="text-stone-600">Boho Escape</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://homesofrajasthan.com/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                Pebblely has been a game-changer for our product photography needs. <br/>
+                                                <br/>
+                                                As an e-commerce business, we need high-quality images that showcase our products in the best light. Pebblely's AI-powered background generator has made the process incredibly efficient and cost-effective. We no longer need to spend hours on manual background removal or hire expensive photographers. <br/>
+                                                <br/>With Pebblely, we can easily generate clean, professional-looking backgrounds that make our products stand out. Highly recommended!
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/avish.3a7cfa6a.jpg" alt="Avish&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Avish</span>
+                                                    <span class="text-stone-600">Home of Rajasthan</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://thevaporshoppeusa.com/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>WOW, those photos look amazing. You guys really do have something golden here! This tech is an upgrade over Canva, Photoshop, and others.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/tony.c693addc.jpg" alt="Tony&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Tony</span>
+                                                    <span class="text-stone-600">VaporShoppe</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://pebblely.com" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely is like magic. It is actually very cheap to be able to make photos like this. And it saves me a lot of time and effort. Thanks for the great product!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/duc-anh.0b223b4e.jpg" alt="Duc Anh&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Duc Anh</span>
+                                                    <span class="text-stone-600">Hiep Thanh Casting</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://twitter.com/bob_dd_" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                I have been using Pebblely for my product photos and it's like a miracle worker! I was spending so much time and money to get the perfect pics before, but now I'm cranking them out in seconds. The lighting, reflections, and shadows are all perfect and I got to create multiple pics for different occasions.<br/>
+                                                <br/>
+                                                Plus, Pebblely took care of the background for me so I didn't even have to do any editing.<br/>
+                                                <br/>If you're looking for amazing, professional-looking product photos quickly and affordably, Pebblely is the way to go!
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/robert.45f72b24.jpg" alt="Robert&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Robert Davidson</span>
+                                                    <span class="text-stone-600"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://linktr.ee/nyrakitchenware" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>We would have never imagined our product images to be this lively without Pebblely. It took our brand image to the next level.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/sushank.4f0a9e34.jpg" alt="Sushank&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Sushank Arora</span>
+                                                    <span class="text-stone-600">Nyra® Kitchenware</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.duckshop.de/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                We offer one of the largest selections of rubber ducks in the world. Being active on social media is very important to us. The challenge is to always have attractive images available and this is where Pebblely is really a game changer for us.<br/>
+                                                <br/>
+                                                We post our rubber ducks with Pebblely-generated images practically several times a day. I can also react to current events within minutes thanks to Pebblely. We now also use Pebblely-generated images for our Facebook ads and can quickly test different motifs for their impact and conversion.<br/>
+                                                <br/>Although we are only at the beginning, Pebblely is already an indispensable tool in our work.
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/bernfried.c6a057c8.jpg" alt="Bernfried&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Bernfried Warning</span>
+                                                    <span class="text-stone-600">Duckshop</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://blessingcases.com/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely is the missing link in e-commerce. I often struggle with product photo shoot to create various content for my Instagram or Facebook page. With Pebblely, I can now easily create multiple pictures with just one or two quality photos of my product. I can customize the background, the rotation and size of my product, and even resize the generated picture. It's so great. The tool is always evolving, and the team is always listening to customers feedback.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="data:image/jpeg;base64,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" alt="Piyanat&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Piyanat</span>
+                                                    <span class="text-stone-600">Blessing Cases</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://twitter.com/MelissaBuening/status/1610689428783075333" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Just tried out this new AI product image generator and subscribed because it was awesome! 😎 I'll be using this A LOT!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/melissa.4fa04242.jpg" alt="Melissa&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Melissa Buening</span>
+                                                    <span class="text-stone-600">Rainbows and Unicorns Agency</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.facebook.com/cityofwhiteangels?mibextid=ZbWKwL" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely made my work 65% easier. My work efficiency has increased alot at my workplace because I don't have to worry about product pictures anymore. 100% promising AI tool. It works like magic!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/adnan.c42b1435.jpg" alt="Adnan&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Adnan</span>
+                                                    <span class="text-stone-600">Graphic Designer</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://wagon.cl/" class="hidden xl:inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                This software is a must-have for anyone looking to create amazing product images. It's incredibly user-friendly and the AI is incredibly accurate. It saved me so much time and effort and I couldn't be happier with the results! <br/>
+                                                <br/>Also, the team behind it is incredibly friendly and supportive. They helped us 1-1 and made sure the photos of our menu looked amazing.
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/sebastian.679b80b0.jpg" alt="Sebastian&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Sebastián Legarraga</span>
+                                                    <span class="text-stone-600">Wagon Burgers &amp;Fries</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!--]-->
+                                    <!--[-->
+                                    <a href="https://laceyboheme.com/" class="xl:hidden inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely has been a game-changer for my jewelry startup. It allows me to create stunning model shots without the cost of hiring professionals. I can create images with the right look and feel for my brand and then showcase my work beautifully on my website and social media.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/roberta.7ed852d4.jpg" alt="Roberta&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Roberta Lacey</span>
+                                                    <span class="text-stone-600">Lacey &amp;Bohème</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.evacandles.co.uk" class="xl:hidden inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>It effectively resolved the problem my business had been struggling with for many years, considering the dynamic nature of product changes and their variety. It was very helpful, and I strongly recommend it to all entrepreneurs. Thank you!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/ewa.e7ef0db4.jpg" alt="Ewa&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Ewa Kwiatkowska</span>
+                                                    <span class="text-stone-600">Eva Candles</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.enzosignature.com/" class="xl:hidden inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                Working with Pebblely to create images for our Instagram ads has been a game-changer. The difference between creatives made via tools like Canva and those generated by Pebblely was like night and day. Our engagement rates skyrocketed, and we saw a significant improvement in overall performance. <br/>
+                                                <br/>Thanks to Pebblely, we now have visually stunning content that captivates our audience and delivers real results. I highly recommend Pebblely to any business looking to elevate their social media presence and drive meaningful engagement with the power of AI.
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/sebastian-yoon.fcc0814f.jpg" alt="Sebastian&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Sebastian</span>
+                                                    <span class="text-stone-600">Enzo Signature Co.</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://www.scrollback.co.uk/" class="xl:hidden inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>Pebblely has been a game changer for our business. Many of our clients lack the resources for frequent product photoshoots. Pebblely offers an excellent alternative, allowing us to produce stylish lifestyle imagery. The impact on our engagement rates and ad performance has been remarkable, making it an indispensable tool for our team. I highly recommend giving it a try, you'll be impressed by the results you can achieve!</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/christian.3197268e.jpg" alt="Christian&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Christian Hornby</span>
+                                                    <span class="text-stone-600">Scroll Back</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://bohoescape.com/" class="xl:hidden inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>All my photos are professionally shot with plain white background but it's a little plain, if you know what I mean. Pebblely has made it so much easier to put them into “lifestyle” situations.</p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/athirah.539a095d.jpg" alt="Athirah&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Athirah</span>
+                                                    <span class="text-stone-600">Boho Escape</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="https://homesofrajasthan.com/" class="xl:hidden inline-block bg-gray-50 w-full mb-4 py-8 px-8 rounded-lg shadow-sm hover:shadow-lg">
+                                        <div class="flex flex-col gap-8">
+                                            <p>
+                                                Pebblely has been a game-changer for our product photography needs. <br/>
+                                                <br/>
+                                                As an e-commerce business, we need high-quality images that showcase our products in the best light. Pebblely's AI-powered background generator has made the process incredibly efficient and cost-effective. We no longer need to spend hours on manual background removal or hire expensive photographers. <br/>
+                                                <br/>With Pebblely, we can easily generate clean, professional-looking backgrounds that make our products stand out. Highly recommended!
+                                            </p>
+                                            <hr>
+                                            <div class="flex flex-row gap-4">
+                                                <img class="w-10 h-10 rounded-full" img src="/_nuxt/avish.3a7cfa6a.jpg" alt="Avish&#39;s profile photo">
+                                                <div class="flex flex-col items-start justify-center text-sm">
+                                                    <span class="font-semibold">Avish</span>
+                                                    <span class="text-stone-600">Home of Rajasthan</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!--]-->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="text-center py-40 px-4 md:py-72 bg-cover bg-center" style="background-image:url(&#39;https://pebblely.b-cdn.net/samples/auth_bg.jpg&#39;);">
+                            <!--[-->
+                            <h2 class="text-white text-3xl sm:text-4xl lg:text-6xl font-bold pb-8 drop-shadow-xl">
+                                Grow your business <br class="sm:hidden">with AI 
+                            </h2>
+                            <a id="footer-signup" class="inline-block text-lg text-black font-semibold bg-yellow-300 py-2 px-8 rounded hover:bg-yellow-400" href="https://app.pebblely.com/signup">Try Pebblely free</a>
+                            <!--]-->
+                        </div>
+                        <div class="border-t border-stone-200 py-24">
+                            <div class="flex flex-col gap-10 sm:flex-row sm:justify-between px-4 md:px-8 lg:px-16 2xl:container 2xl:px-24">
+                                <div class="flex flex-col justify-between items-start">
+                                    <div class="flex flex-col gap-2">
+                                        <a href="/" class="flex items-center gap-2">
+                                            <img class="h-10 w-auto sm:h-10" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVnSURBVHgB7d2BcaM4FAbg/66B2w6sDi4dWB3sdWA6yF4FuIPkKnA62BLYrSBJBZAKLldBjjcyY8bjjZ5ACAH/N/PGOwkbA+9JIBkwQERERERERERERERERERERERERERERERERETL8xvI50sbpo27NnY3fv/WRtPGexsvWBgWwG22ja9t/AWX/BBSBE0bP9p4Pb/SQtg2qjY+Isa/bZzgiokyZRA/8beihisGA8qGtExppR+Jg4WQgSPSJ56FkIkj5k9+/zzhCErmiHyS348a7A0mVyDP5Pd7g29IZGvzAHLC9x3hukme5hwdcw6ZLLpDXI9t/A2KRhIUerZftbGHS7D2PWQC6QTXnY/tDZ7BQ0IUQ5JfYjwpnrHFIP/XgAYbMs4/IC4Dd+4xtBBYBAPJyVTozo6d/GslWASTMxg2tVsiDTNw/VgEHnKydsSwqd1Uye8b0kNJEWhPSjfDtvGA4XP6cyS/YxB+bjBkKLs6Bq61VxiW9C5OmJ+BG/KFrPcRGyPdnpzRS0sPbTE5tvxrsn3SskPW32LFDNzQSRIe2jqWlvy+J2zwfMDgkuwK034+L38756tzJKEhBf+AhTFIl+zrqLCMYZQUQY2VHApkY+4Rb358aKu/x7IY6BuH7NesDgUy935EmuvsfIkvsdzjpIV+W0tkoMD8SV9D4vvkUKnd5tm2t8A8F1ZeRwU3l7+mmbKQ84ESiUlXX2Heli5jZzm+r3l61CLDXmDIPHaMhFdwlb7HtmgniZKc7D4C+EgQNdzoQTZKEr7lD0EMdPvsGRObKvlMtp/sH82+tJjIEYiS7P6xm8nWM9Dt30lmBw3GJbyCS/gONIbsR83+jq5GeOK7pLOFx2Mxw2GgQHji96CpaOZcoo4GaugSLyt2AE3tBF0jjMJCn/zYd8fQbQV0+YhCU20SbPnpyDmVJic7RKC5OIEXKaZXw5+Xr74/8rvn99qbHh9Bqb0olvGOvnwFoEn+exs/Qam9K5YxvgU0PYDP4p6NtxKNYpnRPYDmJKIB5Wp0AWh6gAa0WL4CoGVrfAuwAJbLIIIYBWBAczCKZRrfAr4CeIMfP+mbh2aI3vgW8BWAZqzJ+f/0LHQN7xUjGejmnNkLpHWCPyeqawN9PUADXS9wAKVkFctEm6CrkPCzZ/IqoOuVvR8Ead0r39CCpmag+xQw6jWB2s+e2QtM7wRdLk6IrFK+8TfQVI7Q5UDCIDIb8OYcFsZXQL//o7f+Tq1cATn+GFAsofdgGkzEBqxEDRbBWHLuFXobXomJVQErw0vEh7MIvxGnRgIG4Q+CkPvUOFOoY6A/05/tsFsgfAWlOg+gX7EY96CN5A/AKjFsRWUjLUgYuKGdNI6PEVFiJk8YvtJSCAdsj0WcpM+e/M4Txm2A7Ag5RzBYJwN3yDwh/kO0DsiE9jFmvng+/y2L5ZJJsKkfilkjw8m2EnE3sv8EEYv8RhHdHVMFLg+zTvGYvO+IvC9ifm+g7BBZQYNpdN/bJ69vuHyHX4P4vpzDnGN3fr3r/TylBq7Yot+BFbMAhIHrDQqkJRetNLhcvNL0fn7rgpYuwR3T+9n17+Yk6y6zgf9Ad2FONqSl1Ji+S1xrrOZRtwVYCCFJr7DSR+sUYCF8lvQDNjJdvsewue61Jf0BG38+omx4gTweLZ8i4d2QNrvxe+xRwBBSDHu47/GxWP6sYNPGD7jh6k9k/vyEHArgmmnjT7hiuMNl7J2bbuj50otXLGy4lmMB3CJFsMNlMkZeu9m4qXRzCM1VvEJ/w0z2llIAn5FC+AOXQ8f162eaq3//B3fMltdVJJiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI1uh/k2a+ouYWRAMAAAAASUVORK5CYII=" alt="Pebblely logo">
+                                            <span class="text-xl font-bold font-logo">Pebblely</span>
+                                        </a>
+                                        <!--[-->
+                                        <!--[-->
+                                        <div class="flex items-center relative" data-headlessui-state>
+                                            <!--[-->
+                                            <button class="focus:outline-none" id="headlessui-popover-button-793" type="button" aria-expanded="false" data-headlessui-state>
+                                                <!--[-->
+                                                <div class="flex items-center gap-2 border border-neutral-300 pl-5 pr-3 py-2 rounded">
+                                                    English 
+                                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-4 w-4">
+                                                        <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"></path>
+                                                    </svg>
+                                                </div>
+                                                <!--]-->
+                                            </button>
+                                            <!---->
+                                            <!--]-->
+                                            <!---->
+                                        </div>
+                                        <!--]-->
+                                        <div style="position:fixed;top:1;left:1;width:1;height:0;padding:0;margin:-1;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none;"></div>
+                                        <!--]-->
+                                    </div>
+                                    <div class="hidden sm:block text-center text-xs text-stone-600">Pebblely Pte Ltd © 2025</div>
+                                </div>
+                                <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 lg:gap-16">
+                                    <!--[-->
+                                    <div>
+                                        <p class="font-medium pb-4">Products</p>
+                                        <ul class="text-stone-600 space-y-2">
+                                            <!--[-->
+                                            <li>
+                                                <a href="/" class="hover:text-stone-900">Pebblely</a>
+                                            </li>
+                                            <li>
+                                                <a href="/docs/" class="hover:text-stone-900">Pebblely API</a>
+                                            </li>
+                                            <!--]-->
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <p class="font-medium pb-4">Company</p>
+                                        <ul class="text-stone-600 space-y-2">
+                                            <!--[-->
+                                            <li>
+                                                <a href="https://www.tiktok.com/@pebblely_ai" class="hover:text-stone-900" target="_blank">TikTok</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.instagram.com/pebblely_ai/" class="hover:text-stone-900" target="_blank">Instagram</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://twitter.com/pebblely_ai" class="hover:text-stone-900" target="_blank">Twitter</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://www.xiaohongshu.com/user/profile/63c21790000000002702bad5" class="hover:text-stone-900" target="_blank">小红书</a>
+                                            </li>
+                                            <li>
+                                                <a href="mailto:hello@pebblely.com" class="hover:text-stone-900" target="_blank">Contact</a>
+                                            </li>
+                                            <!--]-->
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <p class="font-medium pb-4">Resources</p>
+                                        <ul class="text-stone-600 space-y-2">
+                                            <!--[-->
+                                            <li>
+                                                <a href="/faq/" class="hover:text-stone-900">FAQ</a>
+                                            </li>
+                                            <li>
+                                                <a href="/blog/" class="hover:text-stone-900">Blog</a>
+                                            </li>
+                                            <li>
+                                                <a href="/gallery/" class="hover:text-stone-900">Gallery</a>
+                                            </li>
+                                            <li>
+                                                <a href="/privacy/" class="hover:text-stone-900">Privacy</a>
+                                            </li>
+                                            <li>
+                                                <a href="/terms/" class="hover:text-stone-900">Terms</a>
+                                            </li>
+                                            <!--]-->
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <p class="font-medium pb-4">Product Categories</p>
+                                        <ul class="text-stone-600 space-y-2">
+                                            <!--[-->
+                                            <li>
+                                                <a href="/categories/skincare/" class="hover:text-stone-900">Skincare &amp;beauty</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/beverage/" class="hover:text-stone-900">Beverage</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/candle/" class="hover:text-stone-900">Candle</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/soap/" class="hover:text-stone-900">Soap</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/furniture/" class="hover:text-stone-900">Furniture</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/jewelry/" class="hover:text-stone-900">Jewelry</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/necklace/" class="hover:text-stone-900">Necklace</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/pet-products/" class="hover:text-stone-900">Pet products</a>
+                                            </li>
+                                            <li>
+                                                <a href="/categories/watches/" class="hover:text-stone-900">Watches</a>
+                                            </li>
+                                            <!--]-->
+                                        </ul>
+                                    </div>
+                                    <div>
+                                        <p class="font-medium pb-4">Photography Ideas</p>
+                                        <ul class="text-stone-600 space-y-2">
+                                            <!--[-->
+                                            <li>
+                                                <a href="/ideas/beauty-product-photography/" class="hover:text-stone-900">Beauty &amp;skincare</a>
+                                            </li>
+                                            <li>
+                                                <a href="/ideas/health-supplement-product-photography/" class="hover:text-stone-900">Health &amp;supplement</a>
+                                            </li>
+                                            <li>
+                                                <a href="/ideas/candle-photography/" class="hover:text-stone-900">Candle</a>
+                                            </li>
+                                            <li>
+                                                <a href="/ideas/beverage-photography/" class="hover:text-stone-900">Beverage</a>
+                                            </li>
+                                            <li>
+                                                <a href="/ideas/jewelry-photography/" class="hover:text-stone-900">Jewelry</a>
+                                            </li>
+                                            <li>
+                                                <a href="/ideas/perfume-photography/" class="hover:text-stone-900">Perfume</a>
+                                            </li>
+                                            <!--]-->
+                                        </ul>
+                                    </div>
+                                    <!--]-->
+                                </div>
+                            </div>
+                            <div class="sm:hidden pt-10 px-4 text-xs text-stone-600">Pebblely Pte Ltd © 2025</div>
+                        </div>
+                    </div>
+                </div>
+                <!--]-->
+            </div>
+        </div>
+        <script>
+            window.__NUXT__ = (function(a, b) {
+                return {
+                    data: {},
+                    state: {},
+                    _errors: {},
+                    serverRendered: true,
+                    prerenderedAt: 1740541294886,
+                    config: {
+                        public: {
+                            segmentKey: "fcoaBUfhiI94nTD9fcUxKQPRPcN5JCW1",
+                            content: {
+                                locales: [],
+                                integrity: 1740541259053,
+                                experimental: {
+                                    stripQueryParameters: a,
+                                    clientDB: a
+                                },
+                                api: {
+                                    baseURL: "\u002Fapi\u002F_content"
+                                },
+                                navigation: {
+                                    fields: []
+                                },
+                                tags: {
+                                    p: "prose-p",
+                                    a: "prose-a",
+                                    blockquote: "prose-blockquote",
+                                    "code-inline": "prose-code-inline",
+                                    code: "prose-code",
+                                    em: "prose-em",
+                                    h1: "prose-h1",
+                                    h2: "prose-h2",
+                                    h3: "prose-h3",
+                                    h4: "prose-h4",
+                                    h5: "prose-h5",
+                                    h6: "prose-h6",
+                                    hr: "prose-hr",
+                                    img: "prose-img",
+                                    ul: "prose-ul",
+                                    ol: "prose-ol",
+                                    li: "prose-li",
+                                    strong: "prose-strong",
+                                    table: "prose-table",
+                                    thead: "prose-thead",
+                                    tbody: "prose-tbody",
+                                    td: "prose-td",
+                                    th: "prose-th",
+                                    tr: "prose-tr"
+                                },
+                                highlight: {
+                                    theme: "github-dark",
+                                    preload: ["python"]
+                                },
+                                wsUrl: b,
+                                documentDriven: a,
+                                host: b,
+                                trailingSlash: a,
+                                anchorLinks: {
+                                    depth: 4,
+                                    exclude: [1]
+                                }
+                            }
+                        },
+                        app: {
+                            baseURL: "\u002F",
+                            buildAssetsDir: "\u002F_nuxt\u002F",
+                            cdnURL: b
+                        }
+                    },
+                    pinia: {}
+                }
+            }(false, ""))
+        </script>
+        <script type="module" src="/_nuxt/entry.9e8b7542.js" crossorigin></script>
+        <script type="module" src="/_nuxt/index.968ed430.js" crossorigin></script>
+        <script type="module" src="/_nuxt/CommonNav.56b8d0c7.js" crossorigin></script>
+        <script type="module" src="/_nuxt/LangHeaderIndex.69624542.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeHero.4b8d9535.js" crossorigin></script>
+        <script type="module" src="/_nuxt/CommonLogos.330d4a72.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeRemoveBackground.3e82df2e.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeGenerateImages.1f4533a0.js" crossorigin></script>
+        <script type="module" src="/_nuxt/Demo.4f91e06a.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeAdvanced.098f5f3e.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeResize.a527f844.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeEdit.08a69959.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeBulkGenerate.2ae15e89.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeTemplates.3098c5a2.js" crossorigin></script>
+        <script type="module" src="/_nuxt/GalleryItem.0374d4a7.js" crossorigin></script>
+        <script type="module" src="/_nuxt/GalleryModalImage.74fb13db.js" crossorigin></script>
+        <script type="module" src="/_nuxt/GalleryModalBase.2f108eb9.js" crossorigin></script>
+        <script type="module" src="/_nuxt/HomeTestimonials.179216d2.js" crossorigin></script>
+        <script type="module" src="/_nuxt/CommonCTA.55037e74.js" crossorigin></script>
+        <script type="module" src="/_nuxt/CommonFooter.f561f543.js" crossorigin></script>
+        <script type="module" src="/_nuxt/LangMenu.899a96d8.js" crossorigin></script>
+    </body>
+</html>

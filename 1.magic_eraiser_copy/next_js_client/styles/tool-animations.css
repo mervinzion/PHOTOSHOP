@@ -1,0 +1,129 @@
+/* Tool Navigation Animation - Based on Uiverse.io by jamik-dev */
+
+/* Base styling for tool buttons */
+.tool-btn {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  z-index: 1;
+  border: 1px solid transparent;
+}
+
+/* The filled background that animates in on hover */
+.tool-btn::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background-color: #3b82f6; /* Default blue color */
+  transition: height 0.3s ease-in-out;
+  z-index: -1;
+  opacity: 0.9;
+}
+
+/* On hover, fill up the button */
+.tool-btn:hover::before {
+  height: 100%;
+}
+
+/* Text color changes to white on hover */
+.tool-btn:hover {
+  color: white !important;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Selected/active state styling */
+.tool-btn.active {
+  color: white !important;
+  box-shadow: 0 4px 3px 1px rgba(252, 252, 252, 0.2), 
+              0 6px 8px rgba(214, 215, 217, 0.2), 
+              0 -4px 4px rgba(206, 207, 209, 0.2), 
+              0 -6px 4px rgba(254, 254, 254, 0.2), 
+              inset 0 0 5px 3px rgba(0, 0, 0, 0.2), 
+              inset 0 0 30px rgba(0, 0, 0, 0.2);
+  transform: translateY(1px);
+}
+
+/* Selected state - background is filled */
+.tool-btn.active::before {
+  height: 100%;
+}
+
+/* Tooltip styling */
+.tool-btn-wrapper {
+  position: relative;
+}
+
+.tool-tooltip {
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  background-color: #3b82f6;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.tool-btn-wrapper:hover .tool-tooltip {
+  opacity: 1;
+  visibility: visible;
+  bottom: -25px;
+}
+
+/* Define specific colors for each tool */
+.tool-normal::before { background-color: #3b82f6; } /* Blue */
+.tool-powerpaint::before { background-color: #8b5cf6; } /* Purple */
+.tool-outpaint::before { background-color: #ec4899; } /* Pink */
+.tool-enhance::before { background-color: #10b981; } /* Green */
+.tool-colorize::before { background-color: #f59e0b; } /* Amber */
+.tool-art::before { background-color: #ef4444; } /* Red - keeping the same color for "Recolor" */
+.tool-blur::before { background-color: #6366f1; } /* Indigo */
+.tool-bg-removal::before { background-color: #0891b2; } /* Cyan */
+
+/* Tooltip colors matching the buttons */
+.tooltip-normal { background-color: #3b82f6; }
+.tooltip-powerpaint { background-color: #8b5cf6; }
+.tooltip-outpaint { background-color: #ec4899; }
+.tooltip-enhance { background-color: #10b981; }
+.tooltip-colorize { background-color: #f59e0b; }
+.tooltip-art { background-color: #ef4444; } /* Keeping the same tooltip color for "Recolor" */
+.tooltip-blur { background-color: #6366f1; }
+.tooltip-bg-removal { background-color: #0891b2; }
+
+/* Mobile menu styling - using the same style as desktop buttons */
+.mobile-menu-item {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+/* On active state for mobile */
+.mobile-menu-item.active {
+  box-shadow: 0 4px 3px 1px rgba(252, 252, 252, 0.2), 
+              0 6px 8px rgba(214, 215, 217, 0.2), 
+              0 -4px 4px rgba(206, 207, 209, 0.2), 
+              0 -6px 4px rgba(254, 254, 254, 0.2), 
+              inset 0 0 5px 3px rgba(0, 0, 0, 0.2), 
+              inset 0 0 30px rgba(0, 0, 0, 0.2);
+  transform: translateY(1px);
+}
+
+/* Mobile menu item colors */
+.mobile-normal::before { background-color: #3b82f6; }
+.mobile-powerpaint::before { background-color: #8b5cf6; }
+.mobile-outpaint::before { background-color: #ec4899; }
+.mobile-enhance::before { background-color: #10b981; }
+.mobile-colorize::before { background-color: #f59e0b; }
+.mobile-art::before { background-color: #ef4444; } /* Keeping the same color for "Recolor" */
+.mobile-blur::before { background-color: #6366f1; }
+.mobile-bg-removal::before { background-color: #0891b2; }
